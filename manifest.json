@@ -1,6 +1,6 @@
 {
-    "name": "Aztec Assistant",
-    "short_name": "Aztec Assistant",
+    "name": "aztec",
+    "short_name": "aztec",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
