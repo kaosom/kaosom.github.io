@@ -1,11 +1,11 @@
 {
-    "name": "aztec",
-    "short_name": "aztec",
+    "name": "Planify App",
+    "short_name": "Planify",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
-    "description": "A new Flutter project.",
+    "description": "Management App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
